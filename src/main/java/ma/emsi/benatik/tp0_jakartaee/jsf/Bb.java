@@ -130,7 +130,21 @@ public class Bb implements Serializable {
             // Invalide le bouton pour changer le rôle système
             this.roleSystemeChangeable = false;
         }
-        this.reponse += question.toLowerCase(Locale.FRENCH) + "||";
+        
+        // ========== MON TRAITEMENT PERSONNALISÉ : TRANSFORMATION MIROIR ==========
+        String inverse = new StringBuilder(question).reverse().toString();
+
+        // Construction de la réponse
+        this.reponse += String.format(
+            "MIROIR MAGIQUE \n\n" +
+            "Original → %s\n" +
+            "Inversé  ← %s\n\n" +
+            "Astuce : Essayez avec des palindromes comme 'kayak' !",
+            question, inverse
+        );
+        this.reponse += "||";
+        //==========================================================================
+        
         // La conversation contient l'historique des questions-réponses depuis le début.
         afficherConversation();
         return null;
