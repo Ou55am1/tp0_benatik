@@ -9,16 +9,16 @@
 
 ## 📋 Table des matières
 
-- [Description du projet](#description-du-projet)
-- [Technologies utilisées](#technologies-utilisées)
-- [Architecture du projet](#architecture-du-projet)
-- [Installation et déploiement](#installation-et-déploiement)
-- [Fonctionnalités](#fonctionnalités)
-- [Traitement personnalisé](#traitement-personnalisé)
-- [Explications techniques](#explications-techniques)
-- [Captures d'écran](#captures-décran)
-- [Difficultés rencontrées](#difficultés-rencontrées)
-- [Améliorations possibles](#améliorations-possibles)
+- [Description du projet]
+- [Technologies utilisées]
+- [Architecture du projet]
+- [Installation et déploiement]
+- [Fonctionnalités]
+- [Traitement personnalisé]
+- [Explications techniques]
+- [Captures d'écran]
+- [Difficultés rencontrées]
+- [Améliorations possibles]
 
 ---
 
@@ -284,17 +284,17 @@ public class CharsetFilter implements Filter {
 
 ### **Interface principale**
 
-![Interface principale](<img width="1731" height="820" alt="Capture d'écran 2025-10-19 003344" src="https://github.com/user-attachments/assets/79f42564-edc6-4c48-90bb-6a15845ff340" />)
+![Interface principale](https://github.com/user-attachments/assets/79f42564-edc6-4c48-90bb-6a15845ff340)
 *L'utilisateur peut choisir un rôle et poser des questions*
 
 ### **Transformation miroir en action**
 
-![Transformation miroir](<img width="1727" height="750" alt="image" src="https://github.com/user-attachments/assets/9ddb72d9-9876-46af-8ef0-6f9d7041d4de" />)
+![Transformation miroir](https://github.com/user-attachments/assets/9ddb72d9-9876-46af-8ef0-6f9d7041d4de)
 *Exemple avec le mot "Bonjour" inversé en "ruojnoB"*
 
 ### **Message d'erreur**
 
-![Message d'erreur](<img width="1732" height="772" alt="image" src="https://github.com/user-attachments/assets/9440667f-9bf3-46cb-92a0-80d88ad1d37c" />)
+![Message d'erreur](https://github.com/user-attachments/assets/9440667f-9bf3-46cb-92a0-80d88ad1d37c)
 *Validation : la question ne peut pas être vide*
 
 ---
