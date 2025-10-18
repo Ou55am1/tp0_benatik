@@ -1,25 +1,25 @@
 # TP0 - Introduction à Jakarta EE
 
-**Étudiant : **BENATIK Oussama  
-**Numéro : **6  
+**Étudiant :** BENATIK Oussama  
+**Numéro :** 6  
 **Date :** Octobre 2025  
-**Module :** Agents conversationnels en Java avec LangChain4j [EMSI - UCA - I2A]
+**Module :** Agents conversationnels en Java avec LangChain4j **[EMSI - UCA - I2A]**
 
 ---
 
 ## 📋 Table des matières
 
-- [Description du projet]
-- [Technologies utilisées]
-- [Architecture du projet]
-- [Installation et déploiement]
-- [Fonctionnalités]
-- [Traitement personnalisé]
-- [Explications techniques]
-- [Captures d'écran]
-- [Difficultés rencontrées]
-- [Améliorations possibles]
-
+- [📖 Description du projet](#-description-du-projet)
+- [🛠️ Technologies utilisées](#️-technologies-utilisées)
+- [📁 Architecture](#-architecture)
+- [🚀 Installation et déploiement](#-installation-et-déploiement)
+- [✨ Fonctionnalités](#-fonctionnalités)
+- [🎨 Traitement personnalisé](#-traitement-personnalisé)
+- [🔧 Explications techniques](#-explications-techniques)
+- [📸 Captures d'écran](#-captures-décran)
+- [🚧 Difficultés rencontrées](#-difficultés-rencontrées)
+- [📄 Licence](#-licence)
+- [✉️ Contact](#️-contact)
 ---
 
 ## 📖 Description du projet
@@ -50,7 +50,7 @@ Application web Jakarta EE simulant une interface de chat. L'utilisateur peut ch
 
 ---
 
-## 📁 Architecture du projet
+## 📁 Architecture
 ```
 tp0_jakartaee/
 ├── src/
