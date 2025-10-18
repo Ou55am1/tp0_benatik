@@ -14,15 +14,12 @@
     </properties>
     
     <dependencies>
-        <!-- Jakarta EE Web API (changé de -api à -web-api) -->
         <dependency>
             <groupId>jakarta.platform</groupId>
             <artifactId>jakarta.jakartaee-web-api</artifactId>
             <version>10.0.0</version>
             <scope>provided</scope>
         </dependency>
-        
-        <!-- PrimeFaces -->
         <dependency>
             <groupId>org.primefaces</groupId>
             <artifactId>primefaces</artifactId>
