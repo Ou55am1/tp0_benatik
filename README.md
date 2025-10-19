@@ -338,6 +338,7 @@ Ce projet est réalisé dans un cadre pédagogique à l'EMSI.
 **Étudiant :** BENATIK Oussama  
 **Email :** Oussama.Benatik@emsi-edu.ma / benatik.oussama@gmail.com  
 **GitHub :** [https://github.com/Ou55am1](https://github.com/Ou55am1)  
+**LinkedIn :** [https://www.linkedin.com/in/oussama-benatik](https://www.linkedin.com/in/oussama-benatik-2464aa337)
 
 ---
 
